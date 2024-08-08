@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Gradient Modern Personal profile linkdekln banner](https://github.com/user-attachments/assets/e751c17d-7b47-40fa-b78c-4ac8eaafec2b)
 
 <!--
 **chiheb2000/chiheb2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
