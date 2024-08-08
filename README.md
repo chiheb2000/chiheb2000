@@ -7,6 +7,8 @@ I am Chihebeddine Baya Chatti, a passionate Full Stack Developer and AI Engineer
 - **Data Science and AI**: Generative AI, Machine Learning, Deep Learning, Computer Vision, Data Analysis, Data Visualization, Power BI
 - **Big Data**: Hadoop
 - **Programming Languages**:
+
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
