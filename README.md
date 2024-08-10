@@ -1,7 +1,7 @@
 ## Hi there 👋 , Welcome to Chihebeddine Baya Chatti's GitHub Profile
 ![Gradient Modern Personal profile linkdekln banner (1)](https://github.com/user-attachments/assets/ad24434a-2624-4945-a98b-b41bb011295f)
 
-I am Chihebeddine Baya Chatti, a passionate Full Stack Developer and AI Engineer with a keen interest in new technologies, web and mobile development, and AI-driven solutions. 
+I am Chihebeddine Baya Chatti, a passionate Full Stack Developer and AI Engineer with a strong interest in new technologies, web and mobile development, and AI-driven solutions. I enjoy building innovative applications that solve real-world problems and push the boundaries of what's possible with technology.
 
 ## 🛠️ Skills
 - **Data Science and AI**: Generative AI, Machine Learning, Deep Learning, Computer Vision, Data Analysis, Data Visualization, Power BI
